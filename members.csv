@@ -1,0 +1,601 @@
+member_id,tier,branch,employer_category,join_date,credit_limit_kes,monthly_contrib_kes,single_borrower_limit_pct,preferred_liquid_ratio_pct
+STM00001,Premium,Thika,Parastatals,2012-03-30,1207000.0,12300.0,10.0,15.0
+STM00002,Premium,Nakuru,KPLC Subsidiary,2012-08-01,1391000.0,5500.0,10.0,15.0
+STM00003,Premium,Westlands,KPLC Subsidiary,2018-07-10,1370000.0,13500.0,10.0,15.0
+STM00004,Premium,Nairobi HQ,County Govt,2018-03-06,757000.0,5700.0,10.0,15.0
+STM00005,Premium,Thika,Private Sector,2017-09-03,1589000.0,5100.0,10.0,15.0
+STM00006,Premium,Nakuru,Kenya Power,2020-07-10,1324000.0,16200.0,10.0,15.0
+STM00007,Premium,Nakuru,Parastatals,2012-03-28,853000.0,12400.0,10.0,15.0
+STM00008,Premium,Thika,Self Employed,2016-11-16,1515000.0,10900.0,10.0,15.0
+STM00009,Premium,Nakuru,KPLC Subsidiary,2018-11-21,1569000.0,12900.0,10.0,15.0
+STM00010,Premium,Mombasa Road,Parastatals,2019-08-30,512000.0,17200.0,10.0,15.0
+STM00011,Premium,Westlands,KPLC Subsidiary,2015-03-06,654000.0,13300.0,10.0,15.0
+STM00012,Premium,Westlands,Private Sector,2013-10-19,751000.0,17200.0,10.0,15.0
+STM00013,Premium,Nairobi HQ,Self Employed,2015-12-06,1394000.0,8300.0,10.0,15.0
+STM00014,Premium,Nairobi HQ,Parastatals,2013-07-19,1174000.0,6400.0,10.0,15.0
+STM00015,Premium,Thika,Kenya Power,2013-01-08,894000.0,6500.0,10.0,15.0
+STM00016,Premium,Nakuru,Kenya Power,2014-10-08,573000.0,8200.0,10.0,15.0
+STM00017,Premium,Westlands,County Govt,2020-06-19,972000.0,6200.0,10.0,15.0
+STM00018,Premium,Nakuru,Kenya Power,2015-03-08,682000.0,5100.0,10.0,15.0
+STM00019,Premium,Nakuru,KPLC Subsidiary,2016-10-16,1478000.0,13300.0,10.0,15.0
+STM00020,Premium,Thika,Kenya Power,2014-01-04,601000.0,18900.0,10.0,15.0
+STM00021,Premium,Westlands,KPLC Subsidiary,2020-09-06,1051000.0,5600.0,10.0,15.0
+STM00022,Premium,Westlands,Self Employed,2018-11-18,1030000.0,14600.0,10.0,15.0
+STM00023,Premium,Thika,Private Sector,2020-05-16,1361000.0,17500.0,10.0,15.0
+STM00024,Premium,Westlands,Private Sector,2017-05-28,703000.0,19500.0,10.0,15.0
+STM00025,Premium,Westlands,Kenya Power,2011-03-26,959000.0,9000.0,10.0,15.0
+STM00026,Premium,Nairobi HQ,KPLC Subsidiary,2015-04-25,1059000.0,10700.0,10.0,15.0
+STM00027,Premium,Thika,Kenya Power,2020-07-03,644000.0,18700.0,10.0,15.0
+STM00028,Premium,Thika,Self Employed,2010-12-19,1527000.0,17600.0,10.0,15.0
+STM00029,Premium,Westlands,County Govt,2016-12-03,919000.0,15700.0,10.0,15.0
+STM00030,Premium,Nairobi HQ,Parastatals,2013-09-12,1422000.0,6200.0,10.0,15.0
+STM00031,Premium,Westlands,Private Sector,2014-07-19,892000.0,14600.0,10.0,15.0
+STM00032,Premium,Westlands,Kenya Power,2017-03-08,1572000.0,15600.0,10.0,15.0
+STM00033,Premium,Westlands,Parastatals,2012-11-21,1164000.0,8100.0,10.0,15.0
+STM00034,Premium,Nakuru,Parastatals,2019-04-03,752000.0,7400.0,10.0,15.0
+STM00035,Premium,Westlands,County Govt,2020-07-22,765000.0,15800.0,10.0,15.0
+STM00036,Premium,Thika,Kenya Power,2011-06-21,1550000.0,5200.0,10.0,15.0
+STM00037,Premium,Nakuru,Self Employed,2011-09-09,775000.0,5700.0,10.0,15.0
+STM00038,Premium,Nakuru,Parastatals,2011-05-25,1450000.0,15400.0,10.0,15.0
+STM00039,Premium,Nairobi HQ,Kenya Power,2011-08-12,1392000.0,18800.0,10.0,15.0
+STM00040,Premium,Mombasa Road,KPLC Subsidiary,2011-12-29,584000.0,12100.0,10.0,15.0
+STM00041,Premium,Thika,KPLC Subsidiary,2020-05-13,1056000.0,12700.0,10.0,15.0
+STM00042,Premium,Westlands,Private Sector,2013-07-31,1265000.0,17300.0,10.0,15.0
+STM00043,Premium,Thika,KPLC Subsidiary,2019-06-28,682000.0,6600.0,10.0,15.0
+STM00044,Premium,Mombasa Road,Kenya Power,2019-08-15,1137000.0,8700.0,10.0,15.0
+STM00045,Premium,Mombasa Road,KPLC Subsidiary,2017-08-10,1392000.0,12000.0,10.0,15.0
+STM00046,Premium,Nairobi HQ,Private Sector,2013-03-24,1229000.0,10300.0,10.0,15.0
+STM00047,Premium,Nairobi HQ,Private Sector,2019-05-04,524000.0,9500.0,10.0,15.0
+STM00048,Premium,Nairobi HQ,County Govt,2012-06-05,596000.0,8500.0,10.0,15.0
+STM00049,Premium,Thika,Parastatals,2013-10-11,1053000.0,10300.0,10.0,15.0
+STM00050,Premium,Thika,Parastatals,2014-08-24,1294000.0,14700.0,10.0,15.0
+STM00051,Premium,Mombasa Road,Private Sector,2011-01-15,1324000.0,16900.0,10.0,15.0
+STM00052,Premium,Westlands,Kenya Power,2020-05-08,1032000.0,8800.0,10.0,15.0
+STM00053,Premium,Mombasa Road,Self Employed,2019-08-12,1594000.0,6600.0,10.0,15.0
+STM00054,Premium,Thika,Parastatals,2012-07-31,898000.0,7300.0,10.0,15.0
+STM00055,Premium,Mombasa Road,Self Employed,2012-07-14,1008000.0,17100.0,10.0,15.0
+STM00056,Premium,Mombasa Road,Kenya Power,2019-10-21,970000.0,11500.0,10.0,15.0
+STM00057,Premium,Mombasa Road,KPLC Subsidiary,2018-07-27,798000.0,6200.0,10.0,15.0
+STM00058,Premium,Westlands,Parastatals,2013-04-28,1269000.0,16300.0,10.0,15.0
+STM00059,Premium,Thika,Kenya Power,2019-11-24,1138000.0,18500.0,10.0,15.0
+STM00060,Premium,Thika,Parastatals,2020-10-22,560000.0,8000.0,10.0,15.0
+STM00061,Premium,Mombasa Road,Kenya Power,2015-08-23,1418000.0,14900.0,10.0,15.0
+STM00062,Premium,Mombasa Road,Self Employed,2019-10-23,1020000.0,16600.0,10.0,15.0
+STM00063,Premium,Mombasa Road,Parastatals,2015-12-25,1332000.0,13300.0,10.0,15.0
+STM00064,Premium,Westlands,County Govt,2014-11-01,1227000.0,8700.0,10.0,15.0
+STM00065,Premium,Mombasa Road,Parastatals,2020-11-09,1244000.0,11000.0,10.0,15.0
+STM00066,Premium,Nakuru,KPLC Subsidiary,2013-03-02,1141000.0,14000.0,10.0,15.0
+STM00067,Premium,Thika,Self Employed,2017-08-10,1133000.0,15500.0,10.0,15.0
+STM00068,Premium,Nakuru,Private Sector,2017-06-24,492000.0,8200.0,10.0,15.0
+STM00069,Premium,Thika,KPLC Subsidiary,2014-04-05,758000.0,19500.0,10.0,15.0
+STM00070,Premium,Mombasa Road,KPLC Subsidiary,2013-11-15,1189000.0,7600.0,10.0,15.0
+STM00071,Premium,Nairobi HQ,Self Employed,2013-12-26,1218000.0,17600.0,10.0,15.0
+STM00072,Premium,Mombasa Road,KPLC Subsidiary,2019-12-30,1480000.0,8100.0,10.0,15.0
+STM00073,Premium,Westlands,Self Employed,2012-12-04,1537000.0,8500.0,10.0,15.0
+STM00074,Premium,Thika,Self Employed,2018-06-10,585000.0,14500.0,10.0,15.0
+STM00075,Premium,Westlands,Parastatals,2019-08-26,444000.0,16900.0,10.0,15.0
+STM00076,Premium,Mombasa Road,Self Employed,2014-06-26,571000.0,6300.0,10.0,15.0
+STM00077,Premium,Nairobi HQ,Kenya Power,2015-08-17,1383000.0,19400.0,10.0,15.0
+STM00078,Premium,Nakuru,KPLC Subsidiary,2010-01-06,1313000.0,17300.0,10.0,15.0
+STM00079,Premium,Nakuru,County Govt,2020-08-26,1524000.0,11200.0,10.0,15.0
+STM00080,Premium,Westlands,Private Sector,2018-10-20,783000.0,15600.0,10.0,15.0
+STM00081,Premium,Thika,KPLC Subsidiary,2012-12-16,1153000.0,15300.0,10.0,15.0
+STM00082,Premium,Thika,Parastatals,2016-04-14,1256000.0,15700.0,10.0,15.0
+STM00083,Premium,Nakuru,Self Employed,2016-12-13,666000.0,6200.0,10.0,15.0
+STM00084,Premium,Nakuru,County Govt,2012-03-31,1000000.0,19100.0,10.0,15.0
+STM00085,Premium,Nairobi HQ,Kenya Power,2019-01-16,1281000.0,7500.0,10.0,15.0
+STM00086,Premium,Mombasa Road,Kenya Power,2016-07-05,480000.0,13700.0,10.0,15.0
+STM00087,Premium,Nairobi HQ,Kenya Power,2014-09-04,1100000.0,15100.0,10.0,15.0
+STM00088,Premium,Mombasa Road,County Govt,2020-11-20,691000.0,11700.0,10.0,15.0
+STM00089,Premium,Nakuru,Self Employed,2020-08-20,1239000.0,7400.0,10.0,15.0
+STM00090,Premium,Nakuru,Private Sector,2013-04-24,625000.0,11600.0,10.0,15.0
+STM00091,Standard,Westlands,Kenya Power,2019-09-08,219000.0,7500.0,10.0,15.0
+STM00092,Standard,Thika,Parastatals,2018-11-07,196000.0,4400.0,10.0,15.0
+STM00093,Standard,Westlands,County Govt,2015-03-03,432000.0,2200.0,10.0,15.0
+STM00094,Standard,Mombasa Road,KPLC Subsidiary,2019-11-05,376000.0,2100.0,10.0,15.0
+STM00095,Standard,Westlands,Parastatals,2019-09-26,473000.0,2700.0,10.0,15.0
+STM00096,Standard,Thika,Parastatals,2016-04-20,182000.0,5700.0,10.0,15.0
+STM00097,Standard,Westlands,County Govt,2012-10-21,443000.0,4600.0,10.0,15.0
+STM00098,Standard,Westlands,County Govt,2015-03-13,300000.0,7000.0,10.0,15.0
+STM00099,Standard,Nakuru,Self Employed,2014-04-17,316000.0,4800.0,10.0,15.0
+STM00100,Standard,Westlands,Parastatals,2016-06-04,235000.0,4200.0,10.0,15.0
+STM00101,Standard,Thika,Self Employed,2011-11-26,248000.0,5400.0,10.0,15.0
+STM00102,Standard,Nairobi HQ,Private Sector,2012-09-08,418000.0,6300.0,10.0,15.0
+STM00103,Standard,Thika,Private Sector,2010-03-05,379000.0,7600.0,10.0,15.0
+STM00104,Standard,Nairobi HQ,County Govt,2018-12-06,450000.0,7500.0,10.0,15.0
+STM00105,Standard,Thika,Kenya Power,2013-10-07,141000.0,4400.0,10.0,15.0
+STM00106,Standard,Nairobi HQ,Private Sector,2017-08-19,344000.0,4800.0,10.0,15.0
+STM00107,Standard,Nakuru,County Govt,2017-02-07,380000.0,7900.0,10.0,15.0
+STM00108,Standard,Nairobi HQ,Private Sector,2013-07-30,183000.0,4000.0,10.0,15.0
+STM00109,Standard,Thika,County Govt,2011-11-11,482000.0,4600.0,10.0,15.0
+STM00110,Standard,Westlands,Private Sector,2020-04-26,281000.0,7200.0,10.0,15.0
+STM00111,Standard,Nairobi HQ,Parastatals,2010-05-29,141000.0,2700.0,10.0,15.0
+STM00112,Standard,Nairobi HQ,County Govt,2015-09-26,173000.0,7900.0,10.0,15.0
+STM00113,Standard,Westlands,Private Sector,2018-06-22,159000.0,4400.0,10.0,15.0
+STM00114,Standard,Mombasa Road,KPLC Subsidiary,2019-05-25,459000.0,4300.0,10.0,15.0
+STM00115,Standard,Thika,Kenya Power,2017-10-19,134000.0,4500.0,10.0,15.0
+STM00116,Standard,Thika,KPLC Subsidiary,2019-01-12,156000.0,5500.0,10.0,15.0
+STM00117,Standard,Westlands,Kenya Power,2015-06-09,300000.0,4100.0,10.0,15.0
+STM00118,Standard,Westlands,County Govt,2013-02-02,443000.0,7500.0,10.0,15.0
+STM00119,Standard,Mombasa Road,Kenya Power,2016-04-11,311000.0,4700.0,10.0,15.0
+STM00120,Standard,Westlands,Private Sector,2011-12-13,469000.0,7300.0,10.0,15.0
+STM00121,Standard,Mombasa Road,Self Employed,2020-10-06,443000.0,5900.0,10.0,15.0
+STM00122,Standard,Nakuru,Kenya Power,2018-05-04,324000.0,7800.0,10.0,15.0
+STM00123,Standard,Nairobi HQ,Self Employed,2011-05-30,235000.0,3800.0,10.0,15.0
+STM00124,Standard,Westlands,KPLC Subsidiary,2016-02-12,163000.0,4400.0,10.0,15.0
+STM00125,Standard,Nairobi HQ,Kenya Power,2018-07-07,319000.0,2600.0,10.0,15.0
+STM00126,Standard,Nakuru,Self Employed,2014-04-03,250000.0,4500.0,10.0,15.0
+STM00127,Standard,Westlands,County Govt,2019-10-08,496000.0,7900.0,10.0,15.0
+STM00128,Standard,Westlands,Private Sector,2016-10-27,168000.0,4500.0,10.0,15.0
+STM00129,Standard,Nakuru,KPLC Subsidiary,2013-10-25,420000.0,5700.0,10.0,15.0
+STM00130,Standard,Nairobi HQ,County Govt,2019-01-29,390000.0,7100.0,10.0,15.0
+STM00131,Standard,Thika,KPLC Subsidiary,2013-06-13,259000.0,6200.0,10.0,15.0
+STM00132,Standard,Westlands,Self Employed,2011-04-01,365000.0,2400.0,10.0,15.0
+STM00133,Standard,Westlands,Parastatals,2017-03-18,374000.0,2300.0,10.0,15.0
+STM00134,Standard,Nakuru,Self Employed,2020-06-05,211000.0,2700.0,10.0,15.0
+STM00135,Standard,Nairobi HQ,KPLC Subsidiary,2014-03-24,212000.0,7700.0,10.0,15.0
+STM00136,Standard,Nairobi HQ,KPLC Subsidiary,2016-05-10,448000.0,3800.0,10.0,15.0
+STM00137,Standard,Thika,Self Employed,2018-11-22,483000.0,2700.0,10.0,15.0
+STM00138,Standard,Nakuru,Kenya Power,2019-10-30,193000.0,4700.0,10.0,15.0
+STM00139,Standard,Westlands,KPLC Subsidiary,2018-09-06,146000.0,4500.0,10.0,15.0
+STM00140,Standard,Thika,County Govt,2012-11-02,339000.0,6700.0,10.0,15.0
+STM00141,Standard,Mombasa Road,Private Sector,2010-07-06,412000.0,8000.0,10.0,15.0
+STM00142,Standard,Nakuru,Parastatals,2010-03-25,323000.0,7000.0,10.0,15.0
+STM00143,Standard,Mombasa Road,KPLC Subsidiary,2011-06-28,396000.0,6600.0,10.0,15.0
+STM00144,Standard,Nairobi HQ,County Govt,2019-01-30,235000.0,5400.0,10.0,15.0
+STM00145,Standard,Nakuru,County Govt,2013-04-03,428000.0,5300.0,10.0,15.0
+STM00146,Standard,Nairobi HQ,Parastatals,2014-10-18,446000.0,5000.0,10.0,15.0
+STM00147,Standard,Nairobi HQ,Kenya Power,2013-12-19,219000.0,2700.0,10.0,15.0
+STM00148,Standard,Westlands,Private Sector,2017-08-31,222000.0,5700.0,10.0,15.0
+STM00149,Standard,Mombasa Road,County Govt,2017-06-12,298000.0,6400.0,10.0,15.0
+STM00150,Standard,Mombasa Road,Kenya Power,2014-03-23,266000.0,6600.0,10.0,15.0
+STM00151,Standard,Mombasa Road,Private Sector,2012-07-17,245000.0,7900.0,10.0,15.0
+STM00152,Standard,Nakuru,KPLC Subsidiary,2017-10-12,237000.0,7200.0,10.0,15.0
+STM00153,Standard,Nairobi HQ,County Govt,2018-04-15,286000.0,3500.0,10.0,15.0
+STM00154,Standard,Thika,Parastatals,2015-09-30,484000.0,4300.0,10.0,15.0
+STM00155,Standard,Westlands,KPLC Subsidiary,2015-11-17,395000.0,3000.0,10.0,15.0
+STM00156,Standard,Thika,Kenya Power,2012-05-19,487000.0,2800.0,10.0,15.0
+STM00157,Standard,Westlands,Self Employed,2012-11-30,453000.0,2100.0,10.0,15.0
+STM00158,Standard,Westlands,Private Sector,2011-01-20,244000.0,4900.0,10.0,15.0
+STM00159,Standard,Thika,Kenya Power,2016-05-05,394000.0,6200.0,10.0,15.0
+STM00160,Standard,Nairobi HQ,KPLC Subsidiary,2011-06-24,229000.0,2400.0,10.0,15.0
+STM00161,Standard,Westlands,Self Employed,2013-05-15,161000.0,2000.0,10.0,15.0
+STM00162,Standard,Nairobi HQ,County Govt,2012-01-21,412000.0,2800.0,10.0,15.0
+STM00163,Standard,Nakuru,Parastatals,2011-09-02,430000.0,3700.0,10.0,15.0
+STM00164,Standard,Nairobi HQ,Self Employed,2010-05-26,191000.0,4800.0,10.0,15.0
+STM00165,Standard,Nakuru,Parastatals,2020-07-04,402000.0,7100.0,10.0,15.0
+STM00166,Standard,Thika,Kenya Power,2011-11-10,320000.0,3700.0,10.0,15.0
+STM00167,Standard,Nakuru,KPLC Subsidiary,2013-10-30,284000.0,7700.0,10.0,15.0
+STM00168,Standard,Thika,KPLC Subsidiary,2015-05-13,426000.0,4300.0,10.0,15.0
+STM00169,Standard,Nakuru,Kenya Power,2014-02-22,386000.0,4600.0,10.0,15.0
+STM00170,Standard,Nakuru,KPLC Subsidiary,2012-08-10,417000.0,3700.0,10.0,15.0
+STM00171,Standard,Nakuru,Parastatals,2012-05-03,281000.0,5700.0,10.0,15.0
+STM00172,Standard,Nairobi HQ,Parastatals,2016-11-09,183000.0,6400.0,10.0,15.0
+STM00173,Standard,Westlands,KPLC Subsidiary,2011-07-06,375000.0,7900.0,10.0,15.0
+STM00174,Standard,Thika,Self Employed,2020-01-24,396000.0,5700.0,10.0,15.0
+STM00175,Standard,Westlands,KPLC Subsidiary,2019-06-07,345000.0,5900.0,10.0,15.0
+STM00176,Standard,Mombasa Road,KPLC Subsidiary,2017-04-22,484000.0,2700.0,10.0,15.0
+STM00177,Standard,Nakuru,Self Employed,2018-12-24,458000.0,3900.0,10.0,15.0
+STM00178,Standard,Nakuru,Private Sector,2010-11-13,127000.0,3400.0,10.0,15.0
+STM00179,Standard,Westlands,KPLC Subsidiary,2015-11-19,322000.0,5300.0,10.0,15.0
+STM00180,Standard,Westlands,Self Employed,2017-11-27,330000.0,5500.0,10.0,15.0
+STM00181,Standard,Thika,Parastatals,2015-11-18,137000.0,8000.0,10.0,15.0
+STM00182,Standard,Nakuru,Kenya Power,2012-09-16,285000.0,3000.0,10.0,15.0
+STM00183,Standard,Mombasa Road,County Govt,2018-08-09,209000.0,6300.0,10.0,15.0
+STM00184,Standard,Nakuru,County Govt,2015-07-24,250000.0,5400.0,10.0,15.0
+STM00185,Standard,Westlands,Kenya Power,2018-11-25,482000.0,4800.0,10.0,15.0
+STM00186,Standard,Nairobi HQ,Kenya Power,2014-11-24,335000.0,3900.0,10.0,15.0
+STM00187,Standard,Nairobi HQ,County Govt,2012-02-16,398000.0,6300.0,10.0,15.0
+STM00188,Standard,Nairobi HQ,Self Employed,2013-04-14,273000.0,4300.0,10.0,15.0
+STM00189,Standard,Westlands,County Govt,2020-02-05,378000.0,6000.0,10.0,15.0
+STM00190,Standard,Mombasa Road,Kenya Power,2016-06-22,443000.0,7800.0,10.0,15.0
+STM00191,Standard,Nakuru,County Govt,2012-03-14,236000.0,4000.0,10.0,15.0
+STM00192,Standard,Mombasa Road,Kenya Power,2011-10-15,261000.0,5400.0,10.0,15.0
+STM00193,Standard,Mombasa Road,Parastatals,2011-08-06,233000.0,5600.0,10.0,15.0
+STM00194,Standard,Mombasa Road,Private Sector,2012-12-02,324000.0,3200.0,10.0,15.0
+STM00195,Standard,Westlands,Parastatals,2010-08-17,416000.0,6600.0,10.0,15.0
+STM00196,Standard,Nairobi HQ,County Govt,2012-08-06,160000.0,5500.0,10.0,15.0
+STM00197,Standard,Westlands,Private Sector,2010-11-17,364000.0,2600.0,10.0,15.0
+STM00198,Standard,Thika,Kenya Power,2014-01-09,207000.0,6400.0,10.0,15.0
+STM00199,Standard,Mombasa Road,Parastatals,2012-09-30,211000.0,3100.0,10.0,15.0
+STM00200,Standard,Nakuru,KPLC Subsidiary,2018-09-30,162000.0,5200.0,10.0,15.0
+STM00201,Standard,Nairobi HQ,Kenya Power,2010-04-29,498000.0,4900.0,10.0,15.0
+STM00202,Standard,Westlands,KPLC Subsidiary,2012-06-28,423000.0,7000.0,10.0,15.0
+STM00203,Standard,Mombasa Road,Private Sector,2012-11-14,319000.0,3000.0,10.0,15.0
+STM00204,Standard,Nairobi HQ,Self Employed,2010-01-04,180000.0,6400.0,10.0,15.0
+STM00205,Standard,Thika,Kenya Power,2017-05-17,419000.0,4500.0,10.0,15.0
+STM00206,Standard,Thika,Kenya Power,2017-10-04,329000.0,4800.0,10.0,15.0
+STM00207,Standard,Mombasa Road,Parastatals,2014-10-02,283000.0,7000.0,10.0,15.0
+STM00208,Standard,Nakuru,Parastatals,2018-08-11,274000.0,6100.0,10.0,15.0
+STM00209,Standard,Nakuru,Self Employed,2012-12-12,147000.0,2700.0,10.0,15.0
+STM00210,Standard,Mombasa Road,Self Employed,2013-11-13,212000.0,5600.0,10.0,15.0
+STM00211,Standard,Nairobi HQ,County Govt,2015-12-16,279000.0,6300.0,10.0,15.0
+STM00212,Standard,Westlands,Kenya Power,2020-06-07,214000.0,7800.0,10.0,15.0
+STM00213,Standard,Nairobi HQ,KPLC Subsidiary,2012-12-29,350000.0,7400.0,10.0,15.0
+STM00214,Standard,Mombasa Road,Private Sector,2011-02-24,173000.0,3500.0,10.0,15.0
+STM00215,Standard,Mombasa Road,County Govt,2016-12-20,304000.0,5500.0,10.0,15.0
+STM00216,Standard,Nakuru,KPLC Subsidiary,2012-05-20,374000.0,2100.0,10.0,15.0
+STM00217,Standard,Thika,Self Employed,2014-12-27,434000.0,6500.0,10.0,15.0
+STM00218,Standard,Nakuru,Kenya Power,2016-10-01,494000.0,3500.0,10.0,15.0
+STM00219,Standard,Mombasa Road,Kenya Power,2018-09-17,380000.0,6100.0,10.0,15.0
+STM00220,Standard,Thika,Kenya Power,2018-04-10,314000.0,2800.0,10.0,15.0
+STM00221,Standard,Nairobi HQ,County Govt,2015-07-18,222000.0,8000.0,10.0,15.0
+STM00222,Standard,Thika,Parastatals,2018-11-27,480000.0,6500.0,10.0,15.0
+STM00223,Standard,Mombasa Road,Private Sector,2012-08-21,382000.0,7300.0,10.0,15.0
+STM00224,Standard,Nakuru,Self Employed,2015-12-30,224000.0,2900.0,10.0,15.0
+STM00225,Standard,Nairobi HQ,County Govt,2014-06-20,175000.0,4900.0,10.0,15.0
+STM00226,Standard,Westlands,Kenya Power,2016-08-17,483000.0,4900.0,10.0,15.0
+STM00227,Standard,Mombasa Road,Parastatals,2018-05-01,423000.0,6900.0,10.0,15.0
+STM00228,Standard,Thika,County Govt,2016-09-04,242000.0,4400.0,10.0,15.0
+STM00229,Standard,Nairobi HQ,Self Employed,2010-03-23,170000.0,6200.0,10.0,15.0
+STM00230,Standard,Nairobi HQ,Private Sector,2010-12-09,492000.0,3800.0,10.0,15.0
+STM00231,Standard,Westlands,Parastatals,2012-02-27,405000.0,5400.0,10.0,15.0
+STM00232,Standard,Thika,Self Employed,2017-05-17,182000.0,7100.0,10.0,15.0
+STM00233,Standard,Nakuru,Private Sector,2010-03-14,208000.0,3700.0,10.0,15.0
+STM00234,Standard,Nairobi HQ,Kenya Power,2018-12-19,288000.0,5200.0,10.0,15.0
+STM00235,Standard,Mombasa Road,KPLC Subsidiary,2012-04-14,441000.0,4700.0,10.0,15.0
+STM00236,Standard,Nairobi HQ,Kenya Power,2014-10-27,304000.0,2700.0,10.0,15.0
+STM00237,Standard,Mombasa Road,KPLC Subsidiary,2019-05-26,466000.0,3900.0,10.0,15.0
+STM00238,Standard,Westlands,Self Employed,2013-03-20,283000.0,6600.0,10.0,15.0
+STM00239,Standard,Westlands,Self Employed,2014-08-29,241000.0,3200.0,10.0,15.0
+STM00240,Standard,Nairobi HQ,County Govt,2019-06-11,332000.0,5300.0,10.0,15.0
+STM00241,Standard,Westlands,Parastatals,2014-05-01,165000.0,7200.0,10.0,15.0
+STM00242,Standard,Nairobi HQ,Kenya Power,2013-01-06,158000.0,7600.0,10.0,15.0
+STM00243,Standard,Nakuru,County Govt,2012-10-21,479000.0,7500.0,10.0,15.0
+STM00244,Standard,Westlands,County Govt,2018-02-28,446000.0,6500.0,10.0,15.0
+STM00245,Standard,Nairobi HQ,Kenya Power,2018-05-25,424000.0,3900.0,10.0,15.0
+STM00246,Standard,Nakuru,Kenya Power,2012-10-24,164000.0,4300.0,10.0,15.0
+STM00247,Standard,Thika,Parastatals,2011-06-11,175000.0,6900.0,10.0,15.0
+STM00248,Standard,Mombasa Road,Private Sector,2015-06-07,143000.0,8000.0,10.0,15.0
+STM00249,Standard,Westlands,Private Sector,2013-06-09,290000.0,7900.0,10.0,15.0
+STM00250,Standard,Thika,County Govt,2015-08-11,375000.0,7700.0,10.0,15.0
+STM00251,Standard,Mombasa Road,Self Employed,2012-01-26,338000.0,6000.0,10.0,15.0
+STM00252,Standard,Thika,County Govt,2011-09-03,457000.0,3600.0,10.0,15.0
+STM00253,Standard,Westlands,County Govt,2015-09-22,186000.0,7600.0,10.0,15.0
+STM00254,Standard,Westlands,Private Sector,2012-07-30,312000.0,2200.0,10.0,15.0
+STM00255,Standard,Nakuru,County Govt,2016-10-01,232000.0,3700.0,10.0,15.0
+STM00256,Standard,Nakuru,Kenya Power,2012-07-17,172000.0,7700.0,10.0,15.0
+STM00257,Standard,Nakuru,Parastatals,2018-10-06,199000.0,5200.0,10.0,15.0
+STM00258,Standard,Westlands,Private Sector,2010-01-02,144000.0,6000.0,10.0,15.0
+STM00259,Standard,Mombasa Road,Self Employed,2018-10-23,477000.0,5200.0,10.0,15.0
+STM00260,Standard,Thika,Private Sector,2018-11-24,365000.0,7100.0,10.0,15.0
+STM00261,Standard,Nairobi HQ,Kenya Power,2014-09-25,396000.0,3200.0,10.0,15.0
+STM00262,Standard,Nairobi HQ,Parastatals,2015-02-19,140000.0,7900.0,10.0,15.0
+STM00263,Standard,Nairobi HQ,Kenya Power,2010-01-20,335000.0,6700.0,10.0,15.0
+STM00264,Standard,Westlands,Kenya Power,2018-09-17,283000.0,4300.0,10.0,15.0
+STM00265,Standard,Westlands,County Govt,2012-02-25,195000.0,7100.0,10.0,15.0
+STM00266,Standard,Nairobi HQ,KPLC Subsidiary,2018-03-15,436000.0,2600.0,10.0,15.0
+STM00267,Standard,Mombasa Road,Self Employed,2013-06-25,303000.0,5700.0,10.0,15.0
+STM00268,Standard,Westlands,Private Sector,2017-08-03,471000.0,4000.0,10.0,15.0
+STM00269,Standard,Westlands,Kenya Power,2016-11-29,325000.0,4400.0,10.0,15.0
+STM00270,Standard,Nairobi HQ,County Govt,2010-04-13,202000.0,4700.0,10.0,15.0
+STM00271,Standard,Westlands,County Govt,2014-07-15,150000.0,7300.0,10.0,15.0
+STM00272,Standard,Mombasa Road,Private Sector,2010-06-25,433000.0,4300.0,10.0,15.0
+STM00273,Standard,Thika,Self Employed,2020-11-02,284000.0,5000.0,10.0,15.0
+STM00274,Standard,Mombasa Road,Parastatals,2016-01-31,420000.0,7900.0,10.0,15.0
+STM00275,Standard,Nakuru,County Govt,2012-06-12,187000.0,7300.0,10.0,15.0
+STM00276,Standard,Mombasa Road,KPLC Subsidiary,2010-06-26,215000.0,7300.0,10.0,15.0
+STM00277,Standard,Mombasa Road,Self Employed,2020-03-27,191000.0,5300.0,10.0,15.0
+STM00278,Standard,Nakuru,Self Employed,2020-04-01,393000.0,6300.0,10.0,15.0
+STM00279,Standard,Westlands,KPLC Subsidiary,2019-02-04,330000.0,8000.0,10.0,15.0
+STM00280,Standard,Nakuru,Private Sector,2014-10-06,363000.0,6900.0,10.0,15.0
+STM00281,Standard,Thika,KPLC Subsidiary,2016-10-08,208000.0,2600.0,10.0,15.0
+STM00282,Standard,Mombasa Road,Private Sector,2011-12-25,386000.0,5300.0,10.0,15.0
+STM00283,Standard,Nakuru,Private Sector,2013-06-10,197000.0,3000.0,10.0,15.0
+STM00284,Standard,Nairobi HQ,Kenya Power,2016-10-17,475000.0,2200.0,10.0,15.0
+STM00285,Standard,Nakuru,County Govt,2011-09-18,262000.0,2000.0,10.0,15.0
+STM00286,Standard,Westlands,Parastatals,2010-07-07,232000.0,7000.0,10.0,15.0
+STM00287,Standard,Nairobi HQ,Private Sector,2013-08-01,226000.0,3800.0,10.0,15.0
+STM00288,Standard,Nakuru,County Govt,2019-05-10,266000.0,6300.0,10.0,15.0
+STM00289,Standard,Mombasa Road,KPLC Subsidiary,2016-03-17,207000.0,4700.0,10.0,15.0
+STM00290,Standard,Mombasa Road,Self Employed,2020-09-17,136000.0,4500.0,10.0,15.0
+STM00291,Standard,Nairobi HQ,Self Employed,2016-02-28,147000.0,3900.0,10.0,15.0
+STM00292,Standard,Mombasa Road,Kenya Power,2017-06-28,163000.0,7800.0,10.0,15.0
+STM00293,Standard,Mombasa Road,Parastatals,2012-03-24,131000.0,5600.0,10.0,15.0
+STM00294,Standard,Westlands,Kenya Power,2011-12-21,155000.0,4300.0,10.0,15.0
+STM00295,Standard,Nairobi HQ,Parastatals,2014-05-21,422000.0,3600.0,10.0,15.0
+STM00296,Standard,Thika,Private Sector,2016-02-10,443000.0,4800.0,10.0,15.0
+STM00297,Standard,Thika,County Govt,2016-08-22,180000.0,3400.0,10.0,15.0
+STM00298,Standard,Thika,County Govt,2011-03-07,294000.0,7200.0,10.0,15.0
+STM00299,Standard,Westlands,County Govt,2011-07-06,176000.0,3200.0,10.0,15.0
+STM00300,Standard,Nairobi HQ,County Govt,2017-08-21,317000.0,6800.0,10.0,15.0
+STM00301,Standard,Nairobi HQ,Kenya Power,2014-02-15,420000.0,6000.0,10.0,15.0
+STM00302,Standard,Thika,County Govt,2016-08-27,187000.0,5800.0,10.0,15.0
+STM00303,Standard,Westlands,Private Sector,2011-05-24,426000.0,5500.0,10.0,15.0
+STM00304,Standard,Nakuru,Self Employed,2020-12-14,352000.0,7400.0,10.0,15.0
+STM00305,Standard,Mombasa Road,County Govt,2014-07-29,141000.0,2600.0,10.0,15.0
+STM00306,Standard,Westlands,KPLC Subsidiary,2017-06-24,437000.0,3900.0,10.0,15.0
+STM00307,Standard,Westlands,County Govt,2020-11-17,343000.0,4200.0,10.0,15.0
+STM00308,Standard,Nairobi HQ,Private Sector,2015-09-12,255000.0,6400.0,10.0,15.0
+STM00309,Standard,Nakuru,County Govt,2011-08-07,227000.0,5100.0,10.0,15.0
+STM00310,Standard,Westlands,Parastatals,2015-11-15,427000.0,7900.0,10.0,15.0
+STM00311,Standard,Nakuru,KPLC Subsidiary,2012-12-21,141000.0,4800.0,10.0,15.0
+STM00312,Standard,Mombasa Road,Parastatals,2018-04-30,337000.0,3100.0,10.0,15.0
+STM00313,Standard,Thika,Kenya Power,2019-05-24,350000.0,6000.0,10.0,15.0
+STM00314,Standard,Mombasa Road,Kenya Power,2020-01-20,450000.0,7300.0,10.0,15.0
+STM00315,Standard,Thika,KPLC Subsidiary,2015-05-13,414000.0,4600.0,10.0,15.0
+STM00316,Standard,Nairobi HQ,Parastatals,2019-11-13,360000.0,5300.0,10.0,15.0
+STM00317,Standard,Mombasa Road,KPLC Subsidiary,2018-09-28,138000.0,2700.0,10.0,15.0
+STM00318,Standard,Nakuru,Kenya Power,2011-06-04,453000.0,4400.0,10.0,15.0
+STM00319,Standard,Thika,Kenya Power,2020-05-09,291000.0,5300.0,10.0,15.0
+STM00320,Standard,Mombasa Road,Private Sector,2020-09-24,214000.0,6100.0,10.0,15.0
+STM00321,Standard,Westlands,Self Employed,2020-05-24,336000.0,2300.0,10.0,15.0
+STM00322,Standard,Mombasa Road,Self Employed,2016-01-03,396000.0,5300.0,10.0,15.0
+STM00323,Standard,Nairobi HQ,Kenya Power,2010-03-03,325000.0,8000.0,10.0,15.0
+STM00324,Standard,Westlands,Self Employed,2018-03-30,202000.0,3900.0,10.0,15.0
+STM00325,Standard,Nairobi HQ,Parastatals,2012-04-09,380000.0,3600.0,10.0,15.0
+STM00326,Standard,Nakuru,Parastatals,2015-07-28,487000.0,6900.0,10.0,15.0
+STM00327,Standard,Nairobi HQ,KPLC Subsidiary,2018-03-02,236000.0,7700.0,10.0,15.0
+STM00328,Standard,Nairobi HQ,Private Sector,2012-06-20,383000.0,4400.0,10.0,15.0
+STM00329,Standard,Westlands,Self Employed,2014-11-03,486000.0,3600.0,10.0,15.0
+STM00330,Standard,Westlands,KPLC Subsidiary,2020-11-18,412000.0,5800.0,10.0,15.0
+STM00331,Standard,Nakuru,Parastatals,2013-03-27,416000.0,4800.0,10.0,15.0
+STM00332,Standard,Nakuru,Kenya Power,2018-08-21,319000.0,2100.0,10.0,15.0
+STM00333,Standard,Nairobi HQ,County Govt,2010-08-20,413000.0,2500.0,10.0,15.0
+STM00334,Standard,Nairobi HQ,Self Employed,2012-10-17,264000.0,4200.0,10.0,15.0
+STM00335,Standard,Nakuru,Parastatals,2019-07-08,468000.0,3200.0,10.0,15.0
+STM00336,Standard,Mombasa Road,Parastatals,2018-07-28,470000.0,2700.0,10.0,15.0
+STM00337,Standard,Westlands,County Govt,2016-06-08,405000.0,2900.0,10.0,15.0
+STM00338,Standard,Mombasa Road,Self Employed,2019-12-29,452000.0,6100.0,10.0,15.0
+STM00339,Standard,Westlands,Self Employed,2020-04-29,484000.0,2400.0,10.0,15.0
+STM00340,Standard,Nairobi HQ,County Govt,2016-06-17,218000.0,5300.0,10.0,15.0
+STM00341,Standard,Mombasa Road,Private Sector,2019-06-09,206000.0,3000.0,10.0,15.0
+STM00342,Standard,Westlands,Self Employed,2014-08-27,442000.0,6200.0,10.0,15.0
+STM00343,Standard,Mombasa Road,KPLC Subsidiary,2015-09-30,227000.0,4300.0,10.0,15.0
+STM00344,Standard,Mombasa Road,Parastatals,2019-06-07,417000.0,5600.0,10.0,15.0
+STM00345,Standard,Nairobi HQ,Parastatals,2017-12-06,286000.0,6700.0,10.0,15.0
+STM00346,Standard,Thika,Self Employed,2012-12-02,151000.0,4200.0,10.0,15.0
+STM00347,Standard,Nakuru,County Govt,2015-05-18,297000.0,7000.0,10.0,15.0
+STM00348,Standard,Nairobi HQ,Private Sector,2011-12-06,321000.0,7600.0,10.0,15.0
+STM00349,Standard,Nairobi HQ,Self Employed,2012-10-21,154000.0,8000.0,10.0,15.0
+STM00350,Standard,Westlands,KPLC Subsidiary,2020-02-21,496000.0,6900.0,10.0,15.0
+STM00351,Standard,Nairobi HQ,KPLC Subsidiary,2015-12-06,453000.0,7200.0,10.0,15.0
+STM00352,Standard,Westlands,County Govt,2012-11-13,182000.0,7600.0,10.0,15.0
+STM00353,Standard,Mombasa Road,Parastatals,2014-01-08,378000.0,5600.0,10.0,15.0
+STM00354,Standard,Thika,KPLC Subsidiary,2019-12-01,496000.0,3500.0,10.0,15.0
+STM00355,Standard,Mombasa Road,County Govt,2018-10-11,497000.0,8000.0,10.0,15.0
+STM00356,Standard,Westlands,Kenya Power,2011-09-30,469000.0,3500.0,10.0,15.0
+STM00357,Standard,Nakuru,Parastatals,2015-03-19,128000.0,4600.0,10.0,15.0
+STM00358,Standard,Mombasa Road,Self Employed,2019-06-01,468000.0,6700.0,10.0,15.0
+STM00359,Standard,Thika,Self Employed,2013-07-28,214000.0,4100.0,10.0,15.0
+STM00360,Standard,Westlands,County Govt,2016-05-10,313000.0,4400.0,10.0,15.0
+STM00361,Standard,Westlands,Self Employed,2016-12-02,469000.0,4500.0,10.0,15.0
+STM00362,Standard,Nairobi HQ,Private Sector,2014-06-23,229000.0,4800.0,10.0,15.0
+STM00363,Standard,Nakuru,Self Employed,2016-08-03,353000.0,5200.0,10.0,15.0
+STM00364,Standard,Westlands,Parastatals,2012-05-18,448000.0,3900.0,10.0,15.0
+STM00365,Standard,Nakuru,Kenya Power,2018-11-24,488000.0,6600.0,10.0,15.0
+STM00366,Standard,Thika,County Govt,2018-09-02,241000.0,6200.0,10.0,15.0
+STM00367,Standard,Thika,Private Sector,2013-07-19,499000.0,7600.0,10.0,15.0
+STM00368,Standard,Mombasa Road,KPLC Subsidiary,2017-11-23,380000.0,3100.0,10.0,15.0
+STM00369,Standard,Nairobi HQ,Kenya Power,2012-07-05,222000.0,4300.0,10.0,15.0
+STM00370,Standard,Westlands,Parastatals,2011-10-04,363000.0,5100.0,10.0,15.0
+STM00371,Standard,Westlands,Self Employed,2014-07-28,272000.0,3900.0,10.0,15.0
+STM00372,Standard,Westlands,County Govt,2010-11-27,181000.0,6500.0,10.0,15.0
+STM00373,Standard,Westlands,Kenya Power,2018-02-16,223000.0,2600.0,10.0,15.0
+STM00374,Standard,Nairobi HQ,Kenya Power,2017-01-26,220000.0,2600.0,10.0,15.0
+STM00375,Standard,Thika,Parastatals,2012-05-31,425000.0,3500.0,10.0,15.0
+STM00376,Standard,Mombasa Road,Parastatals,2013-10-21,179000.0,3700.0,10.0,15.0
+STM00377,Standard,Nakuru,Kenya Power,2020-09-21,473000.0,5700.0,10.0,15.0
+STM00378,Standard,Westlands,Self Employed,2016-03-28,432000.0,7500.0,10.0,15.0
+STM00379,Standard,Thika,Private Sector,2019-10-13,456000.0,6500.0,10.0,15.0
+STM00380,Standard,Thika,County Govt,2013-02-08,275000.0,5400.0,10.0,15.0
+STM00381,Standard,Westlands,Private Sector,2020-05-13,250000.0,3700.0,10.0,15.0
+STM00382,Standard,Westlands,Parastatals,2016-05-18,322000.0,3000.0,10.0,15.0
+STM00383,Standard,Mombasa Road,Self Employed,2019-06-12,447000.0,5100.0,10.0,15.0
+STM00384,Standard,Westlands,Parastatals,2014-12-24,461000.0,2700.0,10.0,15.0
+STM00385,Standard,Thika,KPLC Subsidiary,2015-02-06,185000.0,4700.0,10.0,15.0
+STM00386,Standard,Nakuru,Parastatals,2016-09-11,360000.0,5900.0,10.0,15.0
+STM00387,Standard,Nakuru,County Govt,2016-01-04,465000.0,6900.0,10.0,15.0
+STM00388,Standard,Thika,Private Sector,2015-03-16,388000.0,5200.0,10.0,15.0
+STM00389,Standard,Nairobi HQ,Parastatals,2010-05-18,309000.0,5300.0,10.0,15.0
+STM00390,Standard,Thika,KPLC Subsidiary,2011-05-12,430000.0,3700.0,10.0,15.0
+STM00391,Basic,Mombasa Road,Parastatals,2010-02-17,146000.0,1100.0,10.0,15.0
+STM00392,Basic,Thika,Parastatals,2019-12-20,76000.0,1800.0,10.0,15.0
+STM00393,Basic,Mombasa Road,Kenya Power,2018-03-06,122000.0,1600.0,10.0,15.0
+STM00394,Basic,Westlands,KPLC Subsidiary,2019-11-05,141000.0,1100.0,10.0,15.0
+STM00395,Basic,Nairobi HQ,Private Sector,2014-10-26,101000.0,1300.0,10.0,15.0
+STM00396,Basic,Nakuru,Kenya Power,2011-04-08,93000.0,800.0,10.0,15.0
+STM00397,Basic,Westlands,Private Sector,2018-05-09,56000.0,900.0,10.0,15.0
+STM00398,Basic,Westlands,KPLC Subsidiary,2020-09-15,159000.0,600.0,10.0,15.0
+STM00399,Basic,Westlands,County Govt,2010-03-24,119000.0,1300.0,10.0,15.0
+STM00400,Basic,Mombasa Road,Self Employed,2020-12-11,55000.0,1400.0,10.0,15.0
+STM00401,Basic,Nairobi HQ,Kenya Power,2018-08-08,65000.0,1500.0,10.0,15.0
+STM00402,Basic,Westlands,Kenya Power,2012-02-28,129000.0,1900.0,10.0,15.0
+STM00403,Basic,Westlands,Private Sector,2012-04-26,113000.0,1800.0,10.0,15.0
+STM00404,Basic,Westlands,Private Sector,2018-06-13,58000.0,1800.0,10.0,15.0
+STM00405,Basic,Nairobi HQ,KPLC Subsidiary,2015-03-05,59000.0,900.0,10.0,15.0
+STM00406,Basic,Mombasa Road,Parastatals,2013-12-14,137000.0,1400.0,10.0,15.0
+STM00407,Basic,Mombasa Road,County Govt,2020-04-03,105000.0,1700.0,10.0,15.0
+STM00408,Basic,Mombasa Road,KPLC Subsidiary,2013-04-12,73000.0,1900.0,10.0,15.0
+STM00409,Basic,Nairobi HQ,Self Employed,2015-01-25,73000.0,900.0,10.0,15.0
+STM00410,Basic,Nairobi HQ,KPLC Subsidiary,2016-07-10,85000.0,1600.0,10.0,15.0
+STM00411,Basic,Nairobi HQ,KPLC Subsidiary,2018-12-15,89000.0,1600.0,10.0,15.0
+STM00412,Basic,Thika,County Govt,2018-08-27,147000.0,2000.0,10.0,15.0
+STM00413,Basic,Mombasa Road,County Govt,2012-02-02,143000.0,1800.0,10.0,15.0
+STM00414,Basic,Thika,County Govt,2017-05-02,91000.0,900.0,10.0,15.0
+STM00415,Basic,Mombasa Road,Self Employed,2015-05-21,144000.0,2000.0,10.0,15.0
+STM00416,Basic,Thika,Kenya Power,2015-04-08,74000.0,1900.0,10.0,15.0
+STM00417,Basic,Nairobi HQ,County Govt,2016-01-05,116000.0,1300.0,10.0,15.0
+STM00418,Basic,Nakuru,Kenya Power,2013-09-21,98000.0,2000.0,10.0,15.0
+STM00419,Basic,Nairobi HQ,Kenya Power,2020-09-04,77000.0,600.0,10.0,15.0
+STM00420,Basic,Thika,Self Employed,2020-05-20,113000.0,1500.0,10.0,15.0
+STM00421,Basic,Mombasa Road,Self Employed,2020-03-28,104000.0,1600.0,10.0,15.0
+STM00422,Basic,Nairobi HQ,KPLC Subsidiary,2014-03-07,45000.0,1900.0,10.0,15.0
+STM00423,Basic,Mombasa Road,County Govt,2016-08-11,107000.0,600.0,10.0,15.0
+STM00424,Basic,Mombasa Road,Self Employed,2013-01-09,159000.0,500.0,10.0,15.0
+STM00425,Basic,Mombasa Road,Self Employed,2020-01-10,135000.0,1200.0,10.0,15.0
+STM00426,Basic,Mombasa Road,Parastatals,2011-11-17,80000.0,1400.0,10.0,15.0
+STM00427,Basic,Nakuru,KPLC Subsidiary,2017-06-18,91000.0,700.0,10.0,15.0
+STM00428,Basic,Mombasa Road,Private Sector,2010-11-19,91000.0,1500.0,10.0,15.0
+STM00429,Basic,Nairobi HQ,Self Employed,2015-05-28,152000.0,1500.0,10.0,15.0
+STM00430,Basic,Nairobi HQ,Kenya Power,2017-08-20,138000.0,1700.0,10.0,15.0
+STM00431,Basic,Westlands,Kenya Power,2013-11-10,41000.0,2000.0,10.0,15.0
+STM00432,Basic,Thika,County Govt,2012-06-23,138000.0,1000.0,10.0,15.0
+STM00433,Basic,Westlands,Kenya Power,2019-05-25,136000.0,900.0,10.0,15.0
+STM00434,Basic,Westlands,Private Sector,2012-10-25,56000.0,800.0,10.0,15.0
+STM00435,Basic,Nakuru,Parastatals,2011-11-19,50000.0,1200.0,10.0,15.0
+STM00436,Basic,Nairobi HQ,County Govt,2013-07-11,119000.0,1300.0,10.0,15.0
+STM00437,Basic,Westlands,Parastatals,2013-01-05,103000.0,1000.0,10.0,15.0
+STM00438,Basic,Thika,Self Employed,2018-11-24,103000.0,1100.0,10.0,15.0
+STM00439,Basic,Westlands,KPLC Subsidiary,2019-11-06,94000.0,1000.0,10.0,15.0
+STM00440,Basic,Nakuru,Self Employed,2010-04-04,154000.0,1800.0,10.0,15.0
+STM00441,Basic,Nairobi HQ,KPLC Subsidiary,2010-05-15,63000.0,1300.0,10.0,15.0
+STM00442,Basic,Mombasa Road,County Govt,2015-04-07,153000.0,1400.0,10.0,15.0
+STM00443,Basic,Westlands,Kenya Power,2011-07-15,71000.0,1500.0,10.0,15.0
+STM00444,Basic,Mombasa Road,Self Employed,2013-12-20,73000.0,1700.0,10.0,15.0
+STM00445,Basic,Nakuru,County Govt,2012-10-09,137000.0,1500.0,10.0,15.0
+STM00446,Basic,Mombasa Road,KPLC Subsidiary,2010-09-13,134000.0,700.0,10.0,15.0
+STM00447,Basic,Westlands,County Govt,2014-11-03,68000.0,1000.0,10.0,15.0
+STM00448,Basic,Nairobi HQ,Private Sector,2010-12-10,51000.0,1700.0,10.0,15.0
+STM00449,Basic,Nakuru,KPLC Subsidiary,2010-01-05,115000.0,500.0,10.0,15.0
+STM00450,Basic,Nakuru,Self Employed,2012-02-29,80000.0,1500.0,10.0,15.0
+STM00451,Basic,Mombasa Road,Parastatals,2014-04-24,122000.0,1600.0,10.0,15.0
+STM00452,Basic,Mombasa Road,KPLC Subsidiary,2016-11-28,150000.0,700.0,10.0,15.0
+STM00453,Basic,Westlands,KPLC Subsidiary,2020-06-05,86000.0,800.0,10.0,15.0
+STM00454,Basic,Thika,Private Sector,2015-02-02,139000.0,600.0,10.0,15.0
+STM00455,Basic,Mombasa Road,Parastatals,2020-10-20,60000.0,1200.0,10.0,15.0
+STM00456,Basic,Westlands,Parastatals,2020-07-24,45000.0,1300.0,10.0,15.0
+STM00457,Basic,Westlands,County Govt,2015-10-26,158000.0,1900.0,10.0,15.0
+STM00458,Basic,Nairobi HQ,Self Employed,2012-06-14,63000.0,1100.0,10.0,15.0
+STM00459,Basic,Mombasa Road,Parastatals,2018-10-20,90000.0,700.0,10.0,15.0
+STM00460,Basic,Westlands,Kenya Power,2016-03-17,144000.0,1500.0,10.0,15.0
+STM00461,Basic,Nairobi HQ,KPLC Subsidiary,2010-05-09,153000.0,1700.0,10.0,15.0
+STM00462,Basic,Westlands,County Govt,2019-08-31,96000.0,1000.0,10.0,15.0
+STM00463,Basic,Thika,Kenya Power,2010-10-17,103000.0,1500.0,10.0,15.0
+STM00464,Basic,Nairobi HQ,KPLC Subsidiary,2010-03-06,86000.0,900.0,10.0,15.0
+STM00465,Basic,Westlands,Kenya Power,2011-05-21,146000.0,1400.0,10.0,15.0
+STM00466,Basic,Nairobi HQ,Kenya Power,2010-11-20,115000.0,1400.0,10.0,15.0
+STM00467,Basic,Nairobi HQ,Self Employed,2019-08-25,143000.0,1600.0,10.0,15.0
+STM00468,Basic,Mombasa Road,County Govt,2018-09-27,107000.0,1300.0,10.0,15.0
+STM00469,Basic,Mombasa Road,KPLC Subsidiary,2014-12-29,159000.0,1200.0,10.0,15.0
+STM00470,Basic,Thika,Private Sector,2010-07-12,104000.0,1600.0,10.0,15.0
+STM00471,Basic,Thika,KPLC Subsidiary,2015-04-06,160000.0,1300.0,10.0,15.0
+STM00472,Basic,Westlands,Private Sector,2015-03-12,130000.0,800.0,10.0,15.0
+STM00473,Basic,Mombasa Road,Kenya Power,2013-12-22,142000.0,1100.0,10.0,15.0
+STM00474,Basic,Westlands,Self Employed,2013-06-27,119000.0,1200.0,10.0,15.0
+STM00475,Basic,Mombasa Road,Private Sector,2010-06-24,129000.0,600.0,10.0,15.0
+STM00476,Basic,Westlands,Self Employed,2012-04-01,65000.0,1300.0,10.0,15.0
+STM00477,Basic,Nairobi HQ,Private Sector,2016-03-08,134000.0,1500.0,10.0,15.0
+STM00478,Basic,Mombasa Road,Self Employed,2017-04-23,99000.0,1100.0,10.0,15.0
+STM00479,Basic,Westlands,Private Sector,2015-03-29,58000.0,1800.0,10.0,15.0
+STM00480,Basic,Nairobi HQ,County Govt,2019-08-24,55000.0,1900.0,10.0,15.0
+STM00481,Basic,Nakuru,Parastatals,2018-05-10,77000.0,1800.0,10.0,15.0
+STM00482,Basic,Westlands,Kenya Power,2010-05-19,102000.0,500.0,10.0,15.0
+STM00483,Basic,Westlands,Parastatals,2019-01-04,115000.0,500.0,10.0,15.0
+STM00484,Basic,Nairobi HQ,KPLC Subsidiary,2012-04-06,64000.0,1600.0,10.0,15.0
+STM00485,Basic,Westlands,KPLC Subsidiary,2017-01-09,40000.0,1800.0,10.0,15.0
+STM00486,Basic,Thika,Kenya Power,2016-08-05,66000.0,1600.0,10.0,15.0
+STM00487,Basic,Mombasa Road,Kenya Power,2018-10-14,83000.0,1800.0,10.0,15.0
+STM00488,Basic,Westlands,KPLC Subsidiary,2019-05-06,105000.0,900.0,10.0,15.0
+STM00489,Basic,Nakuru,Private Sector,2010-03-15,144000.0,1000.0,10.0,15.0
+STM00490,Basic,Nakuru,Parastatals,2017-08-10,56000.0,1800.0,10.0,15.0
+STM00491,Basic,Nakuru,Parastatals,2016-12-12,135000.0,1500.0,10.0,15.0
+STM00492,Basic,Mombasa Road,Self Employed,2016-06-22,137000.0,1500.0,10.0,15.0
+STM00493,Basic,Mombasa Road,Private Sector,2014-12-13,148000.0,700.0,10.0,15.0
+STM00494,Basic,Westlands,Private Sector,2018-08-23,124000.0,1500.0,10.0,15.0
+STM00495,Basic,Thika,Private Sector,2013-11-11,122000.0,900.0,10.0,15.0
+STM00496,Basic,Thika,KPLC Subsidiary,2018-11-22,94000.0,1500.0,10.0,15.0
+STM00497,Basic,Nakuru,Private Sector,2019-09-26,127000.0,1400.0,10.0,15.0
+STM00498,Basic,Nairobi HQ,KPLC Subsidiary,2010-10-07,59000.0,2000.0,10.0,15.0
+STM00499,Basic,Nairobi HQ,KPLC Subsidiary,2016-10-02,70000.0,1700.0,10.0,15.0
+STM00500,Basic,Westlands,Private Sector,2011-05-29,136000.0,1200.0,10.0,15.0
+STM00501,Basic,Nakuru,Private Sector,2014-09-14,130000.0,900.0,10.0,15.0
+STM00502,Basic,Mombasa Road,Kenya Power,2013-03-01,120000.0,1700.0,10.0,15.0
+STM00503,Basic,Thika,KPLC Subsidiary,2017-07-11,118000.0,1900.0,10.0,15.0
+STM00504,Basic,Mombasa Road,Private Sector,2010-08-03,64000.0,1900.0,10.0,15.0
+STM00505,Basic,Nairobi HQ,Private Sector,2012-03-21,124000.0,1900.0,10.0,15.0
+STM00506,Basic,Nakuru,Self Employed,2012-10-29,65000.0,1300.0,10.0,15.0
+STM00507,Basic,Mombasa Road,KPLC Subsidiary,2020-08-24,47000.0,800.0,10.0,15.0
+STM00508,Basic,Westlands,Self Employed,2018-10-03,149000.0,1400.0,10.0,15.0
+STM00509,Basic,Thika,County Govt,2016-05-18,43000.0,1200.0,10.0,15.0
+STM00510,Basic,Thika,KPLC Subsidiary,2013-11-07,67000.0,1400.0,10.0,15.0
+STM00511,Basic,Mombasa Road,Self Employed,2012-09-20,102000.0,1000.0,10.0,15.0
+STM00512,Basic,Westlands,Self Employed,2013-02-13,72000.0,1100.0,10.0,15.0
+STM00513,Basic,Mombasa Road,KPLC Subsidiary,2016-11-08,63000.0,700.0,10.0,15.0
+STM00514,Basic,Nakuru,Private Sector,2011-02-21,105000.0,1800.0,10.0,15.0
+STM00515,Basic,Thika,Self Employed,2016-06-02,56000.0,500.0,10.0,15.0
+STM00516,Basic,Westlands,Parastatals,2013-02-13,131000.0,1600.0,10.0,15.0
+STM00517,Basic,Mombasa Road,Parastatals,2020-08-02,144000.0,1700.0,10.0,15.0
+STM00518,Basic,Westlands,KPLC Subsidiary,2020-05-17,43000.0,900.0,10.0,15.0
+STM00519,Basic,Nakuru,County Govt,2018-06-05,71000.0,600.0,10.0,15.0
+STM00520,Basic,Nairobi HQ,Private Sector,2015-02-25,136000.0,1800.0,10.0,15.0
+STM00521,Basic,Mombasa Road,Kenya Power,2019-07-15,101000.0,1300.0,10.0,15.0
+STM00522,Basic,Mombasa Road,Kenya Power,2018-08-23,65000.0,1000.0,10.0,15.0
+STM00523,Basic,Thika,KPLC Subsidiary,2016-12-21,115000.0,1100.0,10.0,15.0
+STM00524,Basic,Nakuru,County Govt,2016-04-18,128000.0,900.0,10.0,15.0
+STM00525,Basic,Nairobi HQ,KPLC Subsidiary,2014-05-13,70000.0,1600.0,10.0,15.0
+STM00526,Basic,Nakuru,Private Sector,2016-10-16,133000.0,500.0,10.0,15.0
+STM00527,Basic,Westlands,Private Sector,2014-03-04,141000.0,1500.0,10.0,15.0
+STM00528,Basic,Westlands,KPLC Subsidiary,2019-04-13,108000.0,1000.0,10.0,15.0
+STM00529,Basic,Nairobi HQ,Private Sector,2011-02-26,50000.0,600.0,10.0,15.0
+STM00530,Basic,Thika,Kenya Power,2016-10-18,96000.0,1800.0,10.0,15.0
+STM00531,Basic,Thika,County Govt,2017-06-16,65000.0,700.0,10.0,15.0
+STM00532,Basic,Nakuru,Parastatals,2018-09-17,97000.0,1100.0,10.0,15.0
+STM00533,Basic,Nakuru,Private Sector,2018-04-27,144000.0,600.0,10.0,15.0
+STM00534,Basic,Thika,Kenya Power,2016-11-13,65000.0,1400.0,10.0,15.0
+STM00535,Basic,Nairobi HQ,Parastatals,2016-06-26,70000.0,2000.0,10.0,15.0
+STM00536,Basic,Nakuru,Private Sector,2014-02-19,148000.0,1200.0,10.0,15.0
+STM00537,Basic,Westlands,County Govt,2013-08-19,148000.0,1100.0,10.0,15.0
+STM00538,Basic,Nairobi HQ,Self Employed,2017-08-06,89000.0,800.0,10.0,15.0
+STM00539,Basic,Nairobi HQ,Self Employed,2020-09-02,84000.0,1600.0,10.0,15.0
+STM00540,Basic,Nairobi HQ,KPLC Subsidiary,2018-05-17,41000.0,1800.0,10.0,15.0
+STM00541,Basic,Westlands,Self Employed,2013-03-11,102000.0,1200.0,10.0,15.0
+STM00542,Basic,Nakuru,KPLC Subsidiary,2018-12-10,111000.0,1900.0,10.0,15.0
+STM00543,Basic,Westlands,Private Sector,2015-05-09,90000.0,900.0,10.0,15.0
+STM00544,Basic,Nairobi HQ,County Govt,2012-06-13,62000.0,1100.0,10.0,15.0
+STM00545,Basic,Thika,Self Employed,2015-03-09,123000.0,700.0,10.0,15.0
+STM00546,Basic,Mombasa Road,Self Employed,2010-08-22,115000.0,700.0,10.0,15.0
+STM00547,Basic,Westlands,KPLC Subsidiary,2016-08-12,88000.0,1100.0,10.0,15.0
+STM00548,Basic,Nairobi HQ,Kenya Power,2014-04-12,112000.0,1500.0,10.0,15.0
+STM00549,Basic,Westlands,Private Sector,2014-11-25,137000.0,1700.0,10.0,15.0
+STM00550,Basic,Nakuru,KPLC Subsidiary,2012-05-07,145000.0,1000.0,10.0,15.0
+STM00551,Basic,Nakuru,Parastatals,2020-01-02,134000.0,900.0,10.0,15.0
+STM00552,Basic,Mombasa Road,Kenya Power,2010-12-08,137000.0,900.0,10.0,15.0
+STM00553,Basic,Nairobi HQ,County Govt,2018-10-20,135000.0,1800.0,10.0,15.0
+STM00554,Basic,Thika,KPLC Subsidiary,2012-08-08,55000.0,700.0,10.0,15.0
+STM00555,Basic,Nakuru,Kenya Power,2010-10-10,88000.0,1000.0,10.0,15.0
+STM00556,Basic,Thika,KPLC Subsidiary,2015-10-01,152000.0,1900.0,10.0,15.0
+STM00557,Basic,Mombasa Road,Parastatals,2012-03-26,89000.0,1800.0,10.0,15.0
+STM00558,Basic,Nakuru,Self Employed,2013-09-14,141000.0,1900.0,10.0,15.0
+STM00559,Basic,Nakuru,Parastatals,2020-01-23,49000.0,900.0,10.0,15.0
+STM00560,Basic,Nakuru,Private Sector,2013-08-28,108000.0,1800.0,10.0,15.0
+STM00561,Basic,Westlands,Parastatals,2011-07-11,53000.0,1000.0,10.0,15.0
+STM00562,Basic,Westlands,KPLC Subsidiary,2014-07-30,46000.0,1000.0,10.0,15.0
+STM00563,Basic,Thika,Parastatals,2012-10-31,107000.0,1800.0,10.0,15.0
+STM00564,Basic,Mombasa Road,Self Employed,2014-04-04,98000.0,1200.0,10.0,15.0
+STM00565,Basic,Mombasa Road,Kenya Power,2016-12-17,156000.0,1000.0,10.0,15.0
+STM00566,Basic,Nakuru,Kenya Power,2012-05-25,118000.0,1000.0,10.0,15.0
+STM00567,Basic,Thika,Private Sector,2017-08-08,71000.0,1000.0,10.0,15.0
+STM00568,Basic,Nakuru,Kenya Power,2014-12-17,75000.0,900.0,10.0,15.0
+STM00569,Basic,Thika,Private Sector,2010-08-22,50000.0,900.0,10.0,15.0
+STM00570,Basic,Westlands,Kenya Power,2014-12-15,46000.0,1000.0,10.0,15.0
+STM00571,Basic,Nakuru,Self Employed,2014-08-08,85000.0,1200.0,10.0,15.0
+STM00572,Basic,Thika,Kenya Power,2012-02-08,144000.0,1700.0,10.0,15.0
+STM00573,Basic,Westlands,Kenya Power,2012-10-13,79000.0,1600.0,10.0,15.0
+STM00574,Basic,Nakuru,Self Employed,2014-05-10,106000.0,1900.0,10.0,15.0
+STM00575,Basic,Westlands,KPLC Subsidiary,2017-04-11,159000.0,1900.0,10.0,15.0
+STM00576,Basic,Westlands,County Govt,2014-04-18,46000.0,1900.0,10.0,15.0
+STM00577,Basic,Mombasa Road,Self Employed,2010-09-18,118000.0,1600.0,10.0,15.0
+STM00578,Basic,Nakuru,Private Sector,2017-02-06,106000.0,1700.0,10.0,15.0
+STM00579,Basic,Thika,Kenya Power,2018-06-18,154000.0,1300.0,10.0,15.0
+STM00580,Basic,Westlands,Parastatals,2016-03-26,43000.0,600.0,10.0,15.0
+STM00581,Basic,Thika,Self Employed,2011-07-04,100000.0,1700.0,10.0,15.0
+STM00582,Basic,Nairobi HQ,County Govt,2016-01-08,128000.0,700.0,10.0,15.0
+STM00583,Basic,Mombasa Road,KPLC Subsidiary,2013-01-09,58000.0,1400.0,10.0,15.0
+STM00584,Basic,Mombasa Road,Kenya Power,2012-10-06,55000.0,600.0,10.0,15.0
+STM00585,Basic,Thika,County Govt,2015-02-27,82000.0,700.0,10.0,15.0
+STM00586,Basic,Mombasa Road,Private Sector,2018-11-02,142000.0,800.0,10.0,15.0
+STM00587,Basic,Thika,Self Employed,2018-04-23,61000.0,1600.0,10.0,15.0
+STM00588,Basic,Westlands,Kenya Power,2010-10-30,76000.0,1000.0,10.0,15.0
+STM00589,Basic,Nakuru,Private Sector,2010-06-30,106000.0,600.0,10.0,15.0
+STM00590,Basic,Nakuru,Self Employed,2013-07-24,112000.0,1900.0,10.0,15.0
+STM00591,Basic,Nakuru,County Govt,2015-03-13,60000.0,1900.0,10.0,15.0
+STM00592,Basic,Nairobi HQ,Self Employed,2010-07-05,62000.0,1400.0,10.0,15.0
+STM00593,Basic,Thika,KPLC Subsidiary,2011-10-04,117000.0,1800.0,10.0,15.0
+STM00594,Basic,Mombasa Road,Self Employed,2014-03-23,86000.0,2000.0,10.0,15.0
+STM00595,Basic,Mombasa Road,Kenya Power,2012-03-02,102000.0,2000.0,10.0,15.0
+STM00596,Basic,Mombasa Road,Private Sector,2015-05-18,139000.0,1200.0,10.0,15.0
+STM00597,Basic,Nakuru,Private Sector,2016-08-15,123000.0,600.0,10.0,15.0
+STM00598,Basic,Thika,Kenya Power,2012-04-06,128000.0,700.0,10.0,15.0
+STM00599,Basic,Nakuru,Kenya Power,2015-08-05,133000.0,700.0,10.0,15.0
+STM00600,Basic,Nakuru,KPLC Subsidiary,2012-06-06,51000.0,1300.0,10.0,15.0
